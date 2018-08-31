@@ -1,0 +1,6 @@
+#env:all
+#target roo server's host
+roo.server.host=127.0.0.1
+
+# candidate tasks directory path
+candidate.task.path=C:/lcb/tasks
